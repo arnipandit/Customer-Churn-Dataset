@@ -5,7 +5,7 @@
 📌 Project Overview: Customer Churn Dashboard
 This project focuses on analyzing customer churn data for a telecom company and visualizing key insights through an interactive dashboard. The goal is to identify churn patterns and provide actionable insights to reduce customer attrition and improve business decisions.
 
-🔍 Key Objectives:
+# 🔍 Key Objectives:
 Understand the distribution and rate of customer churn.
 
 Analyze the impact of customer demographics, tenure, internet service, and payment methods on churn behavior.
@@ -14,7 +14,7 @@ Visualize important business metrics such as revenue lost, average tenure, and t
 
 Provide business stakeholders with a clear, interactive dashboard for monitoring churn and related KPIs.
 
-📊 Dashboard Features and Insights:
+# 📊 Dashboard Features and Insights:
 💸 Revenue Lost & Churn Rate
 A total of $139.13K revenue has been lost due to churn.
 
@@ -42,3 +42,40 @@ Long-term customers nearing the 6–7 year mark may leave due to pricing, changi
 
 👨‍👩‍👧 Gender-Based Filtering
 The dashboard includes filters for Male, Female, and All, allowing deeper demographic-specific insights for churn strategies.
+
+# 📊 Metrics Tracked in the Customer Churn Dashboard
+1. Churn Metrics
+Churn Rate: Percentage of customers who left (Churned Customers / Total Customers).
+
+Total Churned Customers: Absolute count of churned users.
+
+Churn Distribution by Gender: Breakdown of churn across Male, Female, and All customers.
+
+Churn by Senior Citizens: Identifies how churn behavior differs for senior vs. non-senior customers.
+
+2. Revenue Metrics
+Total Revenue Lost: Sum of revenue lost due to churn (based on TotalCharges).
+
+Monthly Charges of Churned Customers: Used to estimate financial loss trends.
+
+3. Customer Lifecycle Metrics
+Average Tenure: Mean customer lifespan in months.
+
+Tenure Churn Trend: Line chart showing churn rate across different tenure ranges.
+
+Churn by Tenure Segments: Identifies churn spikes at early (<5 months) and late (~72 months) stages.
+
+4. Service-Based Metrics
+Churn by Internet Service Type: DSL, Fiber Optic, or No Internet.
+
+Top Churned Service Type: Fiber Optic users show highest churn.
+
+5. Payment Behavior Metrics
+Churn by Payment Method: Electronic Check, Credit Card, Bank Transfer, etc.
+
+Top Churned Payment Method: Electronic Check users churn more frequently.
+
+6. Demographic Metrics
+Churn by Gender
+
+Churn by Senior Citizen Status
