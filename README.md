@@ -42,6 +42,3 @@ Long-term customers nearing the 6–7 year mark may leave due to pricing, changi
 
 👨‍👩‍👧 Gender-Based Filtering
 The dashboard includes filters for Male, Female, and All, allowing deeper demographic-specific insights for churn strategies.
-
-✅ Key Performance Indicators (KPIs)
-
